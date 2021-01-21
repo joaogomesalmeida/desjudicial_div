@@ -1,0 +1,16 @@
+#+TITLE: O Direito Internacional Privado do divórcio e a recente desjudicialização do divórcio nalguns Estados-Membros.
+#+AUTHOR: João Gomes de Almeida
+#+LANGUAGE: pt
+
+* TODO Introdução
+* TODO O recente fenómeno de desjudicialização do divórcio. Breve descrição da experiência nalguns Estados-Membros
+** TODO O caso espanhol
+** TODO O caso francês
+** TODO O caso italiano
+* TODO O Direito Internacional Privado português do divórcio
+** TODO Considerações gerais
+** TODO O contributo do acórdão do TJUE de 20 de dezembro de 2017, /Soha Sahyouni contra Raja Mamisch/, C-372/16, EU:C:2017:988
+** TODO O conceito de tribunal nos Regulamento Bruxelas II /bis/ e Roma III
+** TODO A determinação da lei aplicável ao divórcio
+** TODO O reconhecimento do divórcio
+* TODO Conclusões
